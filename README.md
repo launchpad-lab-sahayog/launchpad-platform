@@ -1,1 +1,1 @@
-# launchpad-platformtest
+# launchpad-platform
